@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/WatchCharm_Project_15/",
+    "build": "vite build --base=/html-css_109_ukrnik/",
     "preview": "vite preview"
   },
   "devDependencies": {
